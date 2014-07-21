@@ -1,0 +1,7 @@
+// Extracted with MulleDK19's GMAD Extractor
+"AddonInfo"
+{
+	"name" "[LW] Lotus E21 Renault '13"
+	"author_name" "Author Name"
+	"info" " { 	"description": "Description", 	"type": "vehicle", 	"tags":  	[ 		"realism", 		"roleplay" 	] }"
+}
